@@ -1,0 +1,15 @@
+PODS:
+  - AppAuth (0.94.0)
+  - Stripe (11.2.0)
+
+DEPENDENCIES:
+  - AppAuth (>= 0.94)
+  - Stripe (~> 11.2.0)
+
+SPEC CHECKSUMS:
+  AppAuth: 0f099c2286a1a9754e5bd27211c43d307dc4f778
+  Stripe: 898f83a95d72180c6eb4acd65b2ae6158fc6a8bd
+
+PODFILE CHECKSUM: 83dccbcb69854cca78d51a7b7de9a4c45ed0267b
+
+COCOAPODS: 1.4.0
