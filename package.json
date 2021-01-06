@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@shoutem/ui": "^0.23.4",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "eslint": "^5.5.0",
     "react": "^16.0.0",
     "react-native": "^0.50.4",
